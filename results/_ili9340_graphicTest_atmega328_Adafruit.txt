@@ -1,0 +1,22 @@
+Graphic test modified by ChRadev
+Arduino MCU              ATMega328
+Library used             Adafruit_ILI9341
+Memory usage [B]
+Flash used:              23,736 of 32,256 (73.59%)
+SRAM used:               950 of 2,048 (46.39%)
+Benchmarks [us]
+Screen fill              1,496,456
+Text                     147,088
+Lines                    1,172,116
+Horiz/Vert Lines         125,064
+Rectangles (outline)     82,228
+Rectangles (filled)      3,107,060
+Circles (filled)         452,728
+Circles (outline)        497,252
+Triangles (outline)      261,056
+Triangles (filled)       1,330,720
+Rounded rects (outline)  228,892
+Rounded rects (filled)   3,127,968
+Fill screen by pixels    3,369,992
+Fill screen by bitmaps   528,576
+Scroll and fill screen   532,988

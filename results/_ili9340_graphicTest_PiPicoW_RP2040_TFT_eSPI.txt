@@ -1,0 +1,22 @@
+Graphic test modified by ChRadev
+Arduino MCU              PiPicoW-RP2040
+Library used             TFT_eSPI
+Memory usage [B]
+Flash used:              372,092 of 2,093,056 (17.78%)
+SRAM used:               71,768 of 262,144 (27.38%)
+Benchmarks [us]
+Screen fill              281,577
+Text                     18,831
+Lines                    101,897
+Horiz/Vert Lines         23,541
+Rectangles (outline)     14,932
+Rectangles (filled)      584,372
+Circles (filled)         71,149
+Circles (outline)        37,258
+Triangles (outline)      23,636
+Triangles (filled)       195,995
+Rounded rects (outline)  23,635
+Rounded rects (filled)   586,292
+Fill screen by pixels    504,753
+Fill screen by bitmaps   520,180
+Scroll and fill screen   521,011

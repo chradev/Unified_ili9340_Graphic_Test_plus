@@ -1,0 +1,22 @@
+Graphic test modified by ChRadev
+Arduino MCU              ATMega32u4
+Library used             TFT_ILI9341
+Memory usage [B]
+Flash used:              23,992 of 28,672 (83.68%)
+SRAM used:               711 of 2,560 (27.77%)
+Benchmarks [us]
+Screen fill              874,600
+Text                     60,724
+Lines                    243,988
+Horiz/Vert Lines         71,696
+Rectangles (outline)     46,076
+Rectangles (filled)      1,816,740
+Circles (filled)         285,536
+Circles (outline)        136,148
+Triangles (outline)      59,808
+Triangles (filled)       698,032
+Rounded rects (outline)  100,532
+Rounded rects (filled)   1,987,180
+Fill screen by pixels    923,492
+Fill screen by bitmaps   859,520
+Scroll and fill screen   860,132

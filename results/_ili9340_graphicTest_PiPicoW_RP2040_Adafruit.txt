@@ -1,0 +1,22 @@
+Graphic test modified by ChRadev
+Arduino MCU              PiPicoW-RP2040
+Library used             Adafruit_ILI9341
+Memory usage [B]
+Flash used:              327,772 of 2,093,056 (15.65%)
+SRAM used:               71,324 of 262,144 (27.21%)
+Benchmarks [us]
+Screen fill              604,056
+Text                     45,452
+Lines                    454,856
+Horiz/Vert Lines         50,042
+Rectangles (outline)     32,657
+Rectangles (filled)      1,253,856
+Circles (filled)         167,914
+Circles (outline)        199,626
+Triangles (outline)      101,400
+Triangles (filled)       429,998
+Rounded rects (outline)  92,280
+Rounded rects (filled)   1,257,871
+Fill screen by pixels    1,255,234
+Fill screen by bitmaps   66,438
+Scroll and fill screen   69,357

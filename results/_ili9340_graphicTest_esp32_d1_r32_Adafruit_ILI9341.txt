@@ -1,0 +1,22 @@
+Graphic test modified by ChRadev
+Arduino MCU              ESP32-WROOM
+Library used             Adafruit_ILI9341
+Memory usage [B]
+Flash used:              237,600 of 1,310,720 (18.13%)
+SRAM used:               37,264 of 327,680 (11.37%)
+Benchmarks [us]
+Screen fill              2,120,993
+Text                     99,610
+Lines                    986,748
+Horiz/Vert Lines         173,171
+Rectangles (outline)     110,682
+Rectangles (filled)      4,402,687
+Circles (filled)         492,735
+Circles (outline)        432,728
+Triangles (outline)      225,959
+Triangles (filled)       1,432,757
+Rounded rects (outline)  230,767
+Rounded rects (filled)   4,384,111
+Fill screen by pixels    2,783,609
+Fill screen by bitmaps   435,203
+Scroll and fill screen   439,860

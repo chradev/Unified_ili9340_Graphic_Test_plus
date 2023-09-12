@@ -1,0 +1,22 @@
+Graphic test modified by ChRadev
+Arduino MCU              ESP32-WROOM
+Library used             TFT_eSPI
+Memory usage [B]
+Flash used:              269,072 of 1,310,720 (20.53%)
+SRAM used:               36,864 of 327,680 (11.25%)
+Benchmarks [us]
+Screen fill              233,151
+Text                     15,346
+Lines                    89,909
+Horiz/Vert Lines         20,128
+Rectangles (outline)     12,727
+Rectangles (filled)      484,050
+Circles (filled)         63,960
+Circles (outline)        33,343
+Triangles (outline)      22,013
+Triangles (filled)       164,864
+Rounded rects (outline)  20,954
+Rounded rects (filled)   487,395
+Fill screen by pixels    835,657
+Fill screen by bitmaps   840,458
+Scroll and fill screen   845,475
